@@ -14,11 +14,13 @@
 In the demonstration video, the sequencer is connected to a small synthesizer via a MIDI cable and sends to it sequences of notes that can be modified while the sequence is playing.
 
 ## Images:
-<img src="https://raw.githubusercontent.com/surdubob/ArduinoMidiSequencer/master/Images/20200131_221240.jpg" width="48">
-<img src="https://raw.githubusercontent.com/surdubob/ArduinoMidiSequencer/master/Images/20200206_221157.jpg" width="48">
-<img src="https://raw.githubusercontent.com/surdubob/ArduinoMidiSequencer/master/Images/20200208_160649.jpg" width="48">
-<img src="https://raw.githubusercontent.com/surdubob/ArduinoMidiSequencer/master/Images/20200208_223409.jpg" width="48">
-<img src="https://raw.githubusercontent.com/surdubob/ArduinoMidiSequencer/master/Images/20200216_121709.jpg" width="48">
-<img src="https://raw.githubusercontent.com/surdubob/ArduinoMidiSequencer/master/Images/20200217_152244.jpg" width="48">
-<img src="https://raw.githubusercontent.com/surdubob/ArduinoMidiSequencer/master/Images/startup.jpeg" width="48">
+<div>
+  <img src="https://raw.githubusercontent.com/surdubob/ArduinoMidiSequencer/master/Images/20200131_221240.jpg" width="300" style="display: inline-block">
+  <img src="https://raw.githubusercontent.com/surdubob/ArduinoMidiSequencer/master/Images/20200206_221157.jpg" width="300" style="display: inline-block">
+  <img src="https://raw.githubusercontent.com/surdubob/ArduinoMidiSequencer/master/Images/20200208_160649.jpg" width="300" style="display: inline-block">
+  <img src="https://raw.githubusercontent.com/surdubob/ArduinoMidiSequencer/master/Images/20200208_223409.jpg" width="300" style="display: inline-block">
+  <img src="https://raw.githubusercontent.com/surdubob/ArduinoMidiSequencer/master/Images/20200216_121709.jpg" width="300" style="display: inline-block">
+  <img src="https://raw.githubusercontent.com/surdubob/ArduinoMidiSequencer/master/Images/20200217_152244.jpg" width="300" style="display: inline-block">
+  <img src="https://raw.githubusercontent.com/surdubob/ArduinoMidiSequencer/master/Images/startup.jpeg" width="300" style="display: inline-block">  
+</div>
 
