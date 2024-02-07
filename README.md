@@ -15,12 +15,12 @@ In the demonstration video, the sequencer is connected to a small synthesizer vi
 
 ## Images:
 <div>
-  <img src="https://raw.githubusercontent.com/surdubob/ArduinoMidiSequencer/master/Images/20200131_221240.jpg" width="300" style="display: inline-block">
-  <img src="https://raw.githubusercontent.com/surdubob/ArduinoMidiSequencer/master/Images/20200206_221157.jpg" width="300" style="display: inline-block">
-  <img src="https://raw.githubusercontent.com/surdubob/ArduinoMidiSequencer/master/Images/20200208_160649.jpg" width="300" style="display: inline-block">
-  <img src="https://raw.githubusercontent.com/surdubob/ArduinoMidiSequencer/master/Images/20200208_223409.jpg" width="300" style="display: inline-block">
-  <img src="https://raw.githubusercontent.com/surdubob/ArduinoMidiSequencer/master/Images/20200216_121709.jpg" width="300" style="display: inline-block">
-  <img src="https://raw.githubusercontent.com/surdubob/ArduinoMidiSequencer/master/Images/20200217_152244.jpg" width="300" style="display: inline-block">
-  <img src="https://raw.githubusercontent.com/surdubob/ArduinoMidiSequencer/master/Images/startup.jpeg" width="300" style="display: inline-block">  
+  <img src="https://raw.githubusercontent.com/surdubob/ArduinoMidiSequencer/master/Images/20200131_221240.jpg" height="200" style="display: inline-block">
+  <img src="https://raw.githubusercontent.com/surdubob/ArduinoMidiSequencer/master/Images/20200206_221157.jpg" height="200" style="display: inline-block">
+  <img src="https://raw.githubusercontent.com/surdubob/ArduinoMidiSequencer/master/Images/20200208_160649.jpg" height="200" style="display: inline-block">
+  <img src="https://raw.githubusercontent.com/surdubob/ArduinoMidiSequencer/master/Images/20200208_223409.jpg" height="237" style="display: inline-block">
+  <img src="https://raw.githubusercontent.com/surdubob/ArduinoMidiSequencer/master/Images/20200216_121709.jpg" height="237" style="display: inline-block">
+  <img src="https://raw.githubusercontent.com/surdubob/ArduinoMidiSequencer/master/Images/20200217_152244.jpg" height="230" style="display: inline-block">
+  <img src="https://raw.githubusercontent.com/surdubob/ArduinoMidiSequencer/master/Images/startup.jpeg" height="230" style="display: inline-block">  
 </div>
 
